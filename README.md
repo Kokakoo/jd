@@ -6,4 +6,4 @@
 
 | 微信赞赏 | 支付宝 |
 | :---: | :---: |
-| ![微信赞赏码](about/wx.png) | ![支付宝收款码](about/zfb.jpg) |
+| ![微信赞赏码](about/wx.jpg) | ![支付宝收款码](about/zfb.jpg) |
